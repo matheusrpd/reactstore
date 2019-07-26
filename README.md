@@ -1,7 +1,7 @@
 ## React Store
 
 Aplicação web simples feita com ReactJS para estudo da tecnologia.
-O site lista produtos encontrados na api (https://rocketseat-node.herokuapp.com/api) disponibilizada pela Rocketseat.com.br.
+O site lista produtos encontrados na api (https://rocketseat-node.herokuapp.com/api) disponibilizada pela [Rocketseat](Rocketseat.com.br).
 Utilizei o curso da própria Rocketseat como referência do desenvolvimento. 
 
 ### O que foi praticado
